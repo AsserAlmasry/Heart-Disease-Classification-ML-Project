@@ -6,7 +6,7 @@ In this project, we explore the integration of Explainable Artificial Intelligen
 Our project focuses on a heart disease dataset, leveraging diverse features such as patient demographics, clinical measurements, and historical health records. We demonstrate the effectiveness of XAI techniques, emphasizing their importance in creating trust and facilitating the adoption of ML-based systems in healthcare. Future work could involve larger datasets, and seamless integration of trained models into user-friendly XAI interfaces.
 
 
-W've used a technique of Explainable Artificial Intelligence (XAI) called Randomized Search.
+The technique of Explainable Artificial Intelligence (XAI) w've used is called Randomized Search.
 
 
 The Aim of this project is to develop a machine learning model that utilizes the medical data to classify individuals according to their risk of heart disease if they have or not and give an explanation why they gave this answer 
